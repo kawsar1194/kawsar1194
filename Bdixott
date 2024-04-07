@@ -1,24 +1,52 @@
-#EXTINF:3,SONIC
-http://172.16.29.242:8080/show/5041/index.m3u8
-#EXTINF:3,COLORS BANGLA
-http://172.16.29.242:8080/show/5047/index.m3u8
-#EXTINF:3,TRAVEL XP
-http://172.16.29.242:8080/show/5046/index.m3u8
-#EXTINF:3,JALSHA MOVIES
-http://172.16.29.242:8080/show/5054/index.m3u8
-#EXTINF:3,ZEE BANGLA CINEMA
-http://172.16.29.242:8080/show/5050/index.m3u8
-#EXTINF:3,STAR JALSHA
-http://172.16.29.242:8080/show/5053/index.m3u8
-#EXTINF:3,SONY AATH
-http://172.16.29.242:8080/show/5049/index.m3u8
-#EXTINF:3,COLORS BANGLA CINEMA
-http://172.16.29.242:8080/show/5033/index.m3u8
-#EXTINF:3,ZEE BANGLA
-http://172.16.29.242:8080/show/5048/index.m3u8
-#EXTINF:3,&flix HD
-http://172.16.29.242:8080/show/5014/index.m3u8
-#EXTINF:3,&prive HD
-http://172.16.29.242:8080/show/5010/index.m3u8
-#EXTINF:3,SONY YAY
-http://172.16.29.242:8080/show/5023/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", BTV Chattogram
+http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", BTV World
+http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Sangsad TV
+http://cdn01.palki.tv/live/SangsadTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Anando TV
+http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", ATN Bangla
+http://cdn01.palki.tv/live/ATNBangla-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", ATN News
+http://cdn01.palki.tv/live/ATNNews-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Banglavision HD
+http://cdn01.palki.tv/live/BanglaVision-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Bijoy TV
+http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Boishakhi TV
+http://cdn01.palki.tv/live/BoishakhiTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Channel 9
+http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Channel I
+http://cdn01.palki.tv/live/Channeli-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Ekattor TV
+http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Ekhon TV
+http://cdn01.palki.tv/live/EkhonTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Ekushey TV
+http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Gaan Bangla
+http://cdn01.palki.tv/live/GaanBangla-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Global TV
+http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/58N2t98/channel.png" group-title="@freeiptv25", Green TV
+http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6pxJp0nR/1144782.jpg" group-title="Lord Of The Rings",The Lord Of The Rings
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282001%29%201080p/The%20Lord%20of%20the%20Rings-The%20Fellowship%20of%20the%20Ring%20%282001%29%201080p%20%5BDual%20Audio%5D/The%20Fellowship%20of%20the%20Ring%20%282001%29%20REM%20EXTENDED%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
